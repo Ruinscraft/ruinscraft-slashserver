@@ -1,0 +1,16 @@
+commands:
+  hub:
+    server: hub
+    permission: ""
+  mcatlas:
+    server: mcatlas
+    permission: ""
+  mcplots:
+    server: mcplots
+    permission: ""
+  build:
+    server: build
+    permission: ruinscraft.command.build
+  dev:
+    server: dev
+    permission: ruinscraft.command.dev
