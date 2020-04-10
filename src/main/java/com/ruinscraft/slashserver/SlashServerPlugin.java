@@ -41,6 +41,8 @@ public class SlashServerPlugin extends JavaPlugin {
                         }
                     }
 
+                    player.sendMessage(ChatColor.GOLD + "Sending you to " + server + "...");
+
                     sendToServer(player, server);
 
                     return true;
