@@ -17,6 +17,3 @@ commands:
   build:
     server: build
     permission: ruinscraft.command.build
-  dev:
-    server: dev
-    permission: ruinscraft.command.dev
