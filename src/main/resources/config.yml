@@ -8,12 +8,6 @@ commands:
   mcplots:
     server: mcplots
     permission: ""
-  skyblock:
-    server: skyblock
-    permission: ""
-  infinite:
-    server: infinite
-    permission: ""
   build:
     server: build
     permission: ruinscraft.command.build
