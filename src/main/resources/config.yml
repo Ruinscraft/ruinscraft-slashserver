@@ -8,6 +8,9 @@ commands:
   mcplots:
     server: mcplots
     permission: ""
+  buildcomp:
+    server: buildcomp
+    permission: ""
   build:
     server: build
     permission: ruinscraft.command.build
